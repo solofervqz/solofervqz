@@ -19,6 +19,5 @@ I’m a developer passionate about solving real-world problems through technolog
 
 ## 💬 Let’s connect:
 - [LinkedIn](https://www.linkedin.com/in/fernandavazquez)
-- [Portfolio](https://www.miportafolio.com)
 
 When I’m not coding, I’m usually enjoying a good coffee or brainstorming ideas for my next project. Let’s make something amazing together! ☕️🚀
