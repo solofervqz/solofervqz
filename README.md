@@ -1,6 +1,6 @@
 <div align="center">
-
-# Hi, I'm Fernanda Vázquez 👋
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D63384&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Fernanda+V%C3%A1zquez+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### Full Stack Developer | API Development & Integrations | Indie Coder
 
