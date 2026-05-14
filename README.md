@@ -1,23 +1,109 @@
+<div align="center">
+
 # Hi, I'm Fernanda Vázquez 👋
 
-I’m a developer passionate about solving real-world problems through technology. Always learning and working on projects that make life a bit easier and a lot more fun.
+### Full Stack Developer | API Development & Integrations | Indie Coder
 
-## 🚀 What I’m working on:
-- Currently developing **Tario**, a tool designed to simplify inventory management for cafés and small restaurants.
-- Exploring **React** and backend technologies while working on new **startup** ideas.
+I love creating digital solutions for real-world problems, especially when they involve clean APIs, scalable systems, and products that people can actually use.
 
-## 💻 Skills:
-- **Frontend**: React, HTML, CSS
-- **Backend**: Node.js, Express
-- **Tools**: Git, GitHub, VSCode, Figma
-- **Databases**: MongoDB, SQL
-- **Other**: MVP development, process automation
+[Portfolio](https://portafolio-fer-vazquez.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fernandavazquez) · [YouTube](https://www.youtube.com/@FerInformaticaMX)
 
-## 🎓 Education:
-- **Informatics Engineering Graduate**.
-- Special recognition for my project **DataDoor Access** in a tech competition.
+</div>
 
-## 💬 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/fernandavazquez)
+---
 
-When I’m not coding, I’m usually enjoying a good coffee or brainstorming ideas for my next project. Let’s make something amazing together! ☕️🚀
+## About me
+
+I'm an Informatics Engineer, graduated with honors, and currently working as a **Full Stack Developer at NexResorts**, where I build APIs, frontend features, cloud-based solutions, and data integrations using technologies like **TypeScript, Node.js, React, MySQL, Python, and AWS**.
+
+My main focus is building scalable systems and improving how data, services, and business processes connect to solve real problems.
+
+I'm also the **Founder & Community Lead of Alquimia Tech**, a women-in-tech community in Chihuahua where we create spaces for learning, networking, and professional growth.
+
+During my academic journey, I maintained a strong academic performance and actively participated in hackathons and technology competitions, strengthening my skills in software development, teamwork, and problem-solving in real-world environments.
+
+I also participated in a program at the **University of Arizona** focused on **Generative Artificial Intelligence**, working with LLMs, prompt engineering, and real AI applications.
+
+I'm especially interested in growing as a developer in areas like **APIs, cloud, AI, and product development**, building software and communities that create real impact.
+
+---
+
+## What I'm building now ✨
+
+### 🍽️ Cenémoslo
+
+A swipe-based food decision app for couples who never know where to eat.
+
+---
+
+## Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![API Integrations](https://img.shields.io/badge/API_Integrations-6C63FF?style=for-the-badge)
+
+### Databases & ORM
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge)
+
+### Cloud, Tools & Workflow
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## What I enjoy working on
+
+- API design and backend architecture
+- Cloud-based systems and serverless workflows
+- Data integrations and automation
+- Full-stack product development
+- AI-powered tools and experiments
+- Turning messy problems into clean digital products
+
+---
+
+## Previous builds
+
+### Tario
+
+An inventory management tool designed for cafés and small restaurants, created to simplify stock control, organize supplies by zones, and support better purchasing decisions.
+
+### DataDoor Access
+
+A QR/barcode-based access registration and data analysis system developed for **InnovaTecNM 2024**.
+
+It was implemented at the ITCHII library and won **1st place at the local stage of InnovaTecNM 2024**.
+
+---
+
+## Beyond code 🌷
+
+Outside of software, I’m usually somewhere between coffee, community, and creative ideas.
+
+I love coffee culture, building spaces for women in tech, soft but ambitious projects, and turning little “what if?” ideas into something real. I also enjoy skating, learning new things, and romanticizing the process of building a life around technology, creativity, and impact.
+
+---
+
+<div align="center">
+
+### Let’s build something useful, beautiful, and a little bit ambitious ✨
+
+[Portfolio](https://portafolio-fer-vazquez.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fernandavazquez) · [YouTube](https://www.youtube.com/@FerInformaticaMX)
+
+</div>
