@@ -30,6 +30,12 @@ I'm especially interested in growing as a developer in areas like **APIs, cloud,
 
 ## What I'm building now ✨
 
+### 🧁 Klyento
+
+Management software for small food businesses that sell by order, like home bakers and pastry shops. It keeps recipes and supplies in one place, discounts inventory automatically with every order, and gives them an order board, a simple CRM, and costing with real margins, so they stop running the business from a notebook.
+
+Built together with José as part of the ALL IN IRL batch at Escuelita Maker, where I focus on sales, talking to customers, and validating what small businesses actually need. → [klyento.app](https://klyento.app)
+
 ### 🍽️ Cenémoslo
 
 A swipe-based food decision app for couples who never know where to eat.
