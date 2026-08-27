@@ -14,17 +14,9 @@ I love creating digital solutions for real-world problems, especially when they 
 
 ## About me
 
-I'm an Informatics Engineer, graduated with honors, and currently working as a **Full Stack Developer at NexResorts**, where I build APIs, frontend features, cloud-based solutions, and data integrations using technologies like **TypeScript, Node.js, React, MySQL, Python, and AWS**.
+I'm an Informatics Engineer, graduated with honors, and currently working as a **Full Stack Developer at NexResorts**, where I build APIs, frontend features, cloud-based solutions, and data integrations using technologies like **TypeScript, Node.js, React, MySQL, Python, and AWS**. My focus is building scalable systems and improving how data, services, and business processes connect to solve real problems.
 
-My main focus is building scalable systems and improving how data, services, and business processes connect to solve real problems.
-
-I'm also the **Founder & Community Lead of Alquimia Tech**, a women-in-tech community in Chihuahua where we create spaces for learning, networking, and professional growth.
-
-During my academic journey, I maintained a strong academic performance and actively participated in hackathons and technology competitions, strengthening my skills in software development, teamwork, and problem-solving in real-world environments.
-
-I also participated in a program at the **University of Arizona** focused on **Generative Artificial Intelligence**, working with LLMs, prompt engineering, and real AI applications.
-
-I'm especially interested in growing as a developer in areas like **APIs, cloud, AI, and product development**, building software and communities that create real impact.
+I'm also the **Founder & Community Lead of Alquimia Tech**, a women-in-tech community in Chihuahua where we create spaces for learning, networking, and professional growth. I took part in a **University of Arizona** program on **Generative Artificial Intelligence**, working with LLMs, prompt engineering, and real AI applications, and I'm especially interested in growing in **APIs, cloud, AI, and product development**.
 
 ---
 
@@ -81,28 +73,6 @@ A swipe-based food decision app for couples who never know where to eat.
 - Full-stack product development
 - AI-powered tools and experiments
 - Turning messy problems into clean digital products
-
----
-
-## Previous builds
-
-### Tario
-
-An inventory management tool designed for cafés and small restaurants, created to simplify stock control, organize supplies by zones, and support better purchasing decisions.
-
-### DataDoor Access
-
-A QR/barcode-based access registration and data analysis system developed for **InnovaTecNM 2024**.
-
-It was implemented at the ITCHII library and won **1st place at the local stage of InnovaTecNM 2024**.
-
----
-
-## Beyond code 🌷
-
-Outside of software, I’m usually somewhere between coffee, community, and creative ideas.
-
-I love coffee culture, building spaces for women in tech, soft but ambitious projects, and turning little “what if?” ideas into something real. I also enjoy skating, learning new things, and romanticizing the process of building a life around technology, creativity, and impact.
 
 ---
 
