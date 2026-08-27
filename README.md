@@ -65,17 +65,6 @@ A swipe-based food decision app for couples who never know where to eat.
 
 ---
 
-## What I enjoy working on
-
-- API design and backend architecture
-- Cloud-based systems and serverless workflows
-- Data integrations and automation
-- Full-stack product development
-- AI-powered tools and experiments
-- Turning messy problems into clean digital products
-
----
-
 <div align="center">
 
 ### Let’s build something useful, beautiful, and a little bit ambitious ✨
